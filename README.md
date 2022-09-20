@@ -8,27 +8,26 @@ utiliza do graphql para cadastramento do e-mail do usuário no evento, assim pod
 
 ## :hammer_and_wrench: Features 
 
--   [x] Login com e-mail.
--   [x] Captura de login(email), com Graphcms;
--   [x] Barra de acesso com os conteúdos já disponiveis e futuros;
+-   [x] Conexão com back-end em NODE.
+-   [x] Busca e listagem dos jogos disponiveis na API;
+-   [x] Bucsa e listagem de um jogo especifico da API;
 -   [x] Link para acessar os materias complementares;
 -   [x] Responsividade;
 
 ## ✨ Tecnologias
 
 -   [x] React
+-   [x] React-Native
+-   [x] NodeJs
+-   [x] Prisma
+-   [x] Postcss
+-   [x] Radix
 -   [x] Typescript
 -   [x] Vite
 -   [x] Tawiliwnd
--   [x] Graphql
--   [x] Graphcms
--   [x] Graphql-codegenerator
--   [x] Apollo
 -   [x] vercel
 -   [x] React-dom
--   [x] Phospor
--   [x] Date-fns
--   [x] React-youtub
+-   [x] Phospor-icons
 
 <h2 id="Projeto">
 👔 Projeto
