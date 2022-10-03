@@ -1,18 +1,21 @@
 <h1 align="center">NLW-SPORTS</h1>
 
 ## 💻 Projeto
-O projeto foi desenvolvido com objetivo de disponibilizar conteúdos como aulas, apresentações e informações, sendo muito intuitivo e de fácil compreensão, 
-dispõe de links para acesso ao material complementar compartilhado na nuvem, acesso as comunidades do discord e telegram, podendo entrar em contato com a galera, recebendo ajuda, fazendo amizade e muito mais,
-utiliza do graphql para cadastramento do e-mail do usuário no evento, assim podendo enviar oportunidades futuras notificações e muito mais.
+O projeto tem como objetivo econtrar e se conectar com jogadores para partidas online por meio do Discord.
+
+Para esse projeto foi desenvolvida uma API para publicação dos jogos e anúncios pelos usuários, uma interface WEB para realizar essas publicações, e também uma interface mobile onde os jogadores também poderam buscar por jogadores e se conectar com eles. 
 
 
 ## :hammer_and_wrench: Features 
 
 -   [x] Conexão com back-end em NODE.
--   [x] Busca e listagem dos jogos disponiveis na API;
--   [x] Bucsa e listagem de um jogo especifico da API;
--   [x] Link para acessar os materias complementares;
--   [x] Responsividade;
+-   [x] Listagem dos jogos disponiveis na API;
+-   [x] Listagem de apenas um jogo especifico na API;
+-   [x] Cadastro de anúncio;
+-   [x] Listagem de anúncios;
+-   [x] Conecxão com API discord;
+-   [ ] Banco de dados online;
+-   [ ] Responsividade;
 
 ## ✨ Tecnologias
 
@@ -21,13 +24,24 @@ utiliza do graphql para cadastramento do e-mail do usuário no evento, assim pod
 -   [x] NodeJs
 -   [x] Prisma
 -   [x] Postcss
--   [x] Radix
+-   [x] Radix UI
 -   [x] Typescript
 -   [x] Vite
 -   [x] Tawiliwnd
 -   [x] vercel
 -   [x] React-dom
 -   [x] Phospor-icons
+-   [x] Figma
+
+## Complemento
+
+ - O backend da aplicação foi desenvolvivdo com o Express. Nele foi criada a API com as rotas para a comunicação com o frontend.
+ 
+ - A interface WEB foi desenvolvida utilizando o React.js onde os usuários podem publicar o jogo, horário disponivel para jogar, dias da semana, tempo de jogo e o seu Discord.
+ 
+ - O app MOBILE foi desenvolvido utilizando o React Native. Nele é feita a comunicação com a API onde os jogadores podem visualizar os anúncios dos demais players e se conectarem pelo Discord. 
+ 
+
 
 <h2 id="Projeto">
 👔 Projeto
