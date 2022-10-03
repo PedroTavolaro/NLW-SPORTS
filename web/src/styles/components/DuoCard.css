@@ -1,0 +1,45 @@
+
+.container{
+ width: 16.5rem;
+ background-color: #2A2634;
+ border-radius: 10px;
+ margin-left: 1rem;
+ padding: 20px;
+ padding-top: 24px;
+ border-radius: 8px;
+}
+
+.info{
+   display: grid;
+   height: 5rem;
+}
+
+.titleInfo {
+   color: grey;
+   font-size: 1.3rem;
+}
+
+.infoCard {
+    color: white;
+}
+
+.info:nth-child(1){
+    height: 5rem;
+}
+
+.info:nth-child(2){
+    
+}
+
+.info:nth-child(3){
+    
+}
+.buttonCard{
+    font-family: monospace;
+    margin-top: 2rem;
+    background-image: linear-gradient(90deg, #5572FC 15%, #23E7AD 50.22%, #E2D05C 90%);
+}
+.buttonCard a {
+    font-size: 1.2rem;
+    color: blueviolet;
+}
