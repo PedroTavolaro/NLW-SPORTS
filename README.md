@@ -46,7 +46,7 @@ Para esse projeto foi desenvolvida uma API para publicação dos jogos e anúnci
 <h2 id="Projeto">
 👔 Projeto
 </h2>
-
+<img src="Images/capa.png">
 
 
 
