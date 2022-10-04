@@ -48,6 +48,37 @@ Para esse projeto foi desenvolvida uma API para publicação dos jogos e anúnci
 </h2>
 <img src="Images/capa.png">
 
+## MOBILE
+
+<h1 align="left">
+  <img width="240em" height="560em" alt="plant1" title="#plant1" src="Images/Splash.png" />
+  <img width="240em" height="560em" alt="plant2" title="#plant2" src="Images/Home.png" />
+  <img width="240em" height="560em" alt="plant3" title="#plant3" src="Images/Anúncios.png" />
+  <img width="240em" height="560em" alt="plant3" title="#plant3" src="Images/Conectado.png" />
+</h1>
+
+## Install
+Entre nas pastas e rode o comando abaixo para instalar as dependências dos projetos
+- /server
+- /mobile
+- /web
+```sh
+$ npm install
+```
+## Running
+Antes de rodar a a aplicação, incie o servidor. Para isso, entre na pasta */server* e rode o comando abaixo:
+```sh
+$ npm run dev
+```
+- Para rodar a aplicação **WEB** entre na pasta /web e rode o comando abaixo:
+```sh
+$ npm run dev
+```
+- Para rodar a aplicação **MOBILE** entre na pasta /mobile e rode o comando abaixo:
+```sh
+$ expo start
+```
+Feito isso, instale o app **Expo Go** no seu celular e escanei o QR code gerado para ecessar o aplicativo
 
 
 <h2 id="lic">
@@ -60,7 +91,7 @@ Este projeto esta sobe a licença [MIT](./LICENSE)
 ---
 
 <a href="https://pedrotavolaro.com">
- <img style="border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1323815172205617153/NuGwGq9h_400x400.jpg"  width="100px;" alt=""/>
+ <img align="left" height="250em" src="https://raw.githubusercontent.com/gist/PedroTavolaro/b484c57b9ee89ccdcb3e06d0c2c5f18c/raw/c46e94a8a18dc1d6695105046ed57863bd5a4059/githubcard.svg"/>
  <br />
  <sub><b>PedroTavolaro</b></sub></a> <a href="https://www.pedrotavolaro.ccom" title="PedroTavolaro">🚀</a>
 
